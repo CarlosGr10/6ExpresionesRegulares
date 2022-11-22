@@ -55,6 +55,75 @@ si agregamos 10 puntos, buscara cadenas que contengan 10 puntos, incluyendo espa
 
 El punto toma grupos de caracteres 
 
+# Las clases predefinidas y construidas
+
+## Digitos
+
+Una de las expresines regulares básicas es la busqueda de digitos
+para ello nosotros utilizamos "\d"
+
+![](https://i.imgur.com/7z42jXl.png)
+
+Y tambien al igual que el punto tambien busca por grupos 
+
+![](https://i.imgur.com/cBwuepr.png)
+
+## Word (Palabras)
+
+All word characters, Encuentra todos los caracteres que son parte de una palabra, tanto letras (minúsculas o mayúsculas) como números, es equivalente a poner [a-zA-Z0-9_].
+
+![](https://i.imgur.com/rclnosw.png)
+
+Aplica tambien la busqueda para grupos
+
+![](https://i.imgur.com/4DdCudb.png)
+
+## Spaces
+
+Espacios (los saltos de línea y tabuladores también son espacios).
+
+![](https://i.imgur.com/mMfD6HX.png)
+
+## Busqueda de rangos
+
+Para hacer una busqueda mas potente con digitos los encerramos entre conchetes y ponemos nuestro rango
+
+![](https://i.imgur.com/MG0tPvM.png)
+
+Tambien lo podemos aplicar con las palabras
+
+![](https://i.imgur.com/2sRZ0aT.png)
+
+Nota: Para poder obtener el caracter punto , y no la clase operadora punto
+escapamos el caracter "\."
+
+![](https://i.imgur.com/rEOOP1w.png)
+
+**Contruyendo una expresion regular con lo aprendido**
+
+![](https://i.imgur.com/IsAYO59.png)
+
+Con esto expresamos que queremos buscar de al a hasta la c en minusculas, de la A hasta la F en mayusculas, del 0 al 4, que tome en cuenta los guiones y los puntos 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
