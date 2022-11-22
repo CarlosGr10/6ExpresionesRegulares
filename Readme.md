@@ -20,16 +20,16 @@ Herramientas que nos va ayudar este curso
 
 **Indexadores**
 
-![Rebular](https://rubular.com/r/xcutzuAxvcGx8t)
+[Rebular](https://rubular.com/r/xcutzuAxvcGx8t)
 
-![Regex 101](https://regex101.com/)
+[Regex 101](https://regex101.com/)
 
 **Ducumentos** 
 
-![Expresiones Regulares PDF](https://www.carlosramirezflores.com/regular-expressions.pdf)
+[Expresiones Regulares PDF](https://www.carlosramirezflores.com/regular-expressions.pdf)
 
 
-![Ejemplos de expresiones regurares](https://medium.com/@jmz12/expresiones-regulares-215af64acab1)
+[Ejemplos de expresiones regurares](https://medium.com/@jmz12/expresiones-regulares-215af64acab1)
 
 
 # El raracter (.)
