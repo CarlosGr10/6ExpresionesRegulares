@@ -16,6 +16,22 @@ Pueden haber patrones donde podemos filtrar de forma ma80 medleys sencilla
 
 Busquedas mas optimizadas
 
+Herramientas que nos va ayudar este curso 
+
+**Indexadores**
+
+![Rebular](https://rubular.com/r/xcutzuAxvcGx8t)
+
+![Regex 101](https://regex101.com/)
+
+**Ducumentos** 
+
+![Expresiones Regulares PDF](https://www.carlosramirezflores.com/regular-expressions.pdf)
+
+
+![Ejemplos de expresiones regurares](https://medium.com/@jmz12/expresiones-regulares-215af64acab1)
+
+
 # El raracter (.)
 
 Encuentra todos los caracteres de un archivo, y lo que hace es seleccionar caracter a caracter 
@@ -36,6 +52,9 @@ si agregamos 10 puntos, buscara cadenas que contengan 10 puntos, incluyendo espa
 **La unico es que no tiene restricciones, toma numeros y letras por igual**
 
 ![](https://i.imgur.com/X7JSaU3.png)
+
+El punto toma grupos de caracteres 
+
 
 
 
